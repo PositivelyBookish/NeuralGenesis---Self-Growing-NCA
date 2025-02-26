@@ -1,0 +1,10 @@
+target_path: /content/data/emoji_0.png
+model_path: /content/models/lizard/L2/lizard_sobel_damage.pt
+ani_path: /content/animations/lizard/L2/lizard_sobel_damage.gif
+iterations: 350
+img_size: 40
+padding: 16
+n_channels: 16
+filter: sobel
+loss: L2
+damage: True

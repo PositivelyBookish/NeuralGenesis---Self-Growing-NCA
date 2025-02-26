@@ -1,0 +1,10 @@
+target_path: /home/Souvik.Roy/rnn_nca/data/emoji_0.png
+model_path: /home/Souvik.Roy/rnn_nca/models/lizard/L2/lizard_sobel_damage.pt
+ani_path: /home/Souvik.Roy/rnn_nca/animations/lizard/L2/lizard_sobel_damage.gif
+iterations: 1000
+img_size: 40
+padding: 16
+n_channels: 16
+filter: sobel
+loss: L2
+damage: True

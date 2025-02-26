@@ -1,0 +1,13 @@
+target_path: /home/Souvik.Roy/base_nca/data/emoji_0.png
+model_path: /home/Souvik.Roy/base_nca/models/lizard/L2/lizard_sobel_damage.pt
+device: cuda
+iterations: 5000
+learning_rate: 0.002
+img_size: 40
+padding: 16
+n_channels: 16
+batch_size: 8
+pool_size: 1024
+filter: sobel
+loss: L2
+damage: True
